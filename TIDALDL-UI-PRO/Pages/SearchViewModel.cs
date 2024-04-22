@@ -65,6 +65,9 @@ namespace TIDALDL_UI.Pages
 
             ShowWait = true;
 
+            if (searchText.EndsWith("?u"))
+	            searchText = searchText.Substring(0, searchText.Length - 2);
+            
             (string msg, eType type, object data) = await Client.Get(Global.CommonKey, searchText, eType.NONE, Global.Settings.SearchNum, Global.Settings.IncludeEP, false, searchOffset);
             if (msg.IsNotBlank() || data == null)
             {
