@@ -20,8 +20,8 @@
   «Tidal-Media-Downloader» is an application that lets you download videos and tracks from Tidal. It supports two version: tidal-dl and tidal-gui. 
     <br>
         <a href="https://github.com/yaronzz/Tidal-Media-Downloader-PRO/releases">Download</a> |
-        <a href="https://yaronzz.com/post/tidal_dl_installation/">Documentation</a> |
-        <a href="https://yaronzz.com/post/tidal_dl_installation_chn/">中文文档</a> |
+        <a href="https://doc.yaronzz.com/post/tidal_dl_installation/">Documentation</a> |
+        <a href="https://web.archive.org/web/20230330100953/https://yaronzz.com/post/tidal_dl_installation_chn/">中文文档</a> |
         <a href="https://t.me/Tidal_Media_Downloader">Channel</a>
     <br>
 </p>
@@ -31,7 +31,7 @@
 | Name           | platform                          | Install                                                      |
 | -------------- | --------------------------------- | ------------------------------------------------------------ |
 | tidal-gui      | Windows                           | [tidal-gui.exe](https://github.com/yaronzz/Tidal-Media-Downloader-PRO/releases) |
-| tidal-dl (cli) | Windows \ Linux \ Macos \ Android | ```pip3 install tidal-dl --upgrade```<br />[Detailed Description](https://yaronzz.com/post/tidal_dl_installation/#Install) |
+| tidal-dl (cli) | Windows \ Linux \ Macos \ Android | ```pip3 install tidal-dl --upgrade```<br />[Detailed Description](https://doc.yaronzz.com/post/tidal_dl_installation/) |
 
 ### Nightly Builds
 
